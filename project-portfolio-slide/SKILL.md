@@ -16,7 +16,7 @@ Ask the user for (skip what they already gave):
 Read every file before writing. Use ONLY these sources. Never add outside facts.
 
 ## 2. Write the content
-Title: project name in caps, with a two-tone ending (e.g. "PM SYSTEM MIGRATION - **ANAPLAN → MSPO**" where the last part is teal).
+Title: project name in caps, with a two-tone ending (e.g. "WA ELECTRIC CARS - **COUNTY ANALYSIS**" where the last part is teal).
 
 Four sections, left column:
 - **PROBLEM** – 2 short sentences of background, plain language.
@@ -40,7 +40,7 @@ Right column holds 2 framed visuals (white rounded box, sage border `86A8A0`, ca
 4. A labeled placeholder box saying exactly which image to drop in.
 
 ## 4. Build the slide (pptxgenjs)
-Use the pptx skill if available. A full working example is in `examples/make_pm_example.js` (the author's own project, for layout reference only: replace all of its text with the user's sources; its preview is `examples/example_preview.jpg`). `fix.py` next to this file cleans bullet formatting afterwards (`python3 fix.py <file>.pptx`).
+Use the pptx skill if available. A full working example is in `examples/make_ev_example.js` (the author's own project, for layout reference only: replace all of its text with the user's sources; its preview is `examples/example_preview.jpg`). `fix.py` next to this file cleans bullet formatting afterwards (`python3 fix.py <file>.pptx`).
 
 Style spec:
 - Layout `LAYOUT_WIDE` (13.33 x 7.5 in). Background cream `FBF5EA` – never dark.

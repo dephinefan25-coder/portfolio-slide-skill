@@ -53,7 +53,7 @@ Then review the slide and ask for changes ("shorten the Problem", "use my dashbo
 |---|---|
 | `SKILL.md` | The instructions Claude follows (content rules, style spec, checks) |
 | `fix.py` | Cleans up bullet formatting in the generated PPTX |
-| `examples/make_pm_example.js` | **Example only.** The build script for the author's own project, used as a layout reference. Your slide will use your own content. |
+| `examples/make_ev_example.js` (+ `ev_share.png`, `ev_range.png`) | **Example only.** The build script for the author's own project, used as a layout reference. Your slide will use your own content. |
 | `examples/example_preview.jpg` | Preview of that example slide |
 
 ## Tips
