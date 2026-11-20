@@ -20,7 +20,7 @@ Claude only uses what is in your materials. It will not invent numbers or result
 
 ## Install
 
-Download `project-portfolio-slide.zip` from the [latest release](../../releases/latest), or download this repo and zip the `project-portfolio-slide` folder yourself.
+Download [`project-portfolio-slide.zip`](https://github.com/dephinefan25-coder/portfolio-slide-skill/raw/main/project-portfolio-slide.zip) from this repo (or zip the `project-portfolio-slide` folder yourself).
 
 **Claude.ai (web / desktop app)**
 
